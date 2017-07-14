@@ -1,4 +1,4 @@
-WP Developers | Mobile Articles
+WP Developers | Sky Ad Fix
 ===
 
 Hello there! I'm an awesome plugin that fixes the sky box ad, so that it's Google compliant. No overlay ads here!
