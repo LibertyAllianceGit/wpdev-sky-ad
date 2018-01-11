@@ -26,6 +26,9 @@ Fixes the overlay issue with the sky ad.
 
 == Changelog ==
 
+= 1.0.1 =
+* PHP7 compatibility fix.
+
 = 1.0.0 =
 * Plugin release.
 

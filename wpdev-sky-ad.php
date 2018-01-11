@@ -3,7 +3,7 @@
 Plugin Name: WP Developers | Sky Ad Fix
 Plugin URI: http://wpdevelopers.com
 Description: Quick and easy fix for floating sky ads.
-Version: 1.0.0
+Version: 1.0.1
 Author: Tyler Johnson
 Author URI: http://tylerjohnsondesign.com/
 Copyright: Tyler Johnson
